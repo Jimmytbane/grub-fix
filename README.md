@@ -17,7 +17,7 @@ then you run:
 
 sudo update-grub
 
-or if you're root,
+or if you're root:
 
 update-grub
 
