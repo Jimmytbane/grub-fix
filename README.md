@@ -13,7 +13,7 @@ should look like this:
 
 GRUB_CMDLINE_LINUX_DEFAULT="foo=2 blah=3 random=5 example=1 iommu=soft"
 
-run
+then you run:
 
 sudo update-grub
 
